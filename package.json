@@ -7,8 +7,10 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.2",
-    "nodemailer": "^6.10.1"
-  }
+  "express": "...",
+  "cors": "...",
+  "nodemailer": "...",
+  "dotenv": "^X.X.X"
+}
+
 }
